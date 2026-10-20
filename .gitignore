@@ -1,0 +1,7 @@
+# local virtual environment
+.venv/
+
+# OS and editor artifacts
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
